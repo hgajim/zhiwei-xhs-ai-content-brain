@@ -1,0 +1,18 @@
+{
+  "brand_code": "demo_brand",
+  "learning_mode": "revision_pair",
+  "user_feedback": "原稿功效说得太满，终稿更可信。",
+  "created_by": "运营经理",
+  "original_article": {
+    "external_id": "review-note-001",
+    "version_type": "creator_original",
+    "title": "三天让熬夜脸满血复活",
+    "body": "用了三天暗沉彻底消失，所有人都必须试试。"
+  },
+  "revised_article": {
+    "external_id": "review-note-001",
+    "version_type": "approved_final",
+    "title": "熬夜后，我这样调整护肤节奏",
+    "body": "连续使用后，肌肤看起来更细腻，暗沉状态也有所改善。"
+  }
+}

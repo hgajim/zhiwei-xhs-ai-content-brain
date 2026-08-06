@@ -1,0 +1,41 @@
+{
+  "reviewer": "品牌运营经理",
+  "overall_decision": "minor_revision",
+  "distill_annotations": true,
+  "annotations": [
+    {
+      "location_type": "title",
+      "location_data": {
+        "start": 0,
+        "end": 17
+      },
+      "original_text": "熬夜党一定要试试这个救命神器",
+      "revised_text": "最近熬夜有点多，我更在意皮肤第二天的稳定感",
+      "decision": "rewrite",
+      "reason": "救命神器属于奇效和救世主式表达，广告感过强，不符合品牌克制调性。",
+      "reason_codes": [
+        "over_marketing",
+        "miracle_claim",
+        "tone_mismatch"
+      ],
+      "severity": "high",
+      "reviewer_confidence": 0.98
+    },
+    {
+      "location_type": "body_span",
+      "location_data": {
+        "paragraph": 2
+      },
+      "original_text": "质地比想象中轻",
+      "revised_text": "上脸后比较轻盈，后续叠加面霜也没有明显负担",
+      "decision": "rewrite",
+      "reason": "补充可以观察的具体使用感受，避免只有空泛结论。",
+      "reason_codes": [
+        "lack_of_evidence",
+        "experience_detail"
+      ],
+      "severity": "medium",
+      "reviewer_confidence": 0.95
+    }
+  ]
+}

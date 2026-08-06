@@ -1,0 +1,24 @@
+{
+  "brand_code": "your_brand",
+  "article_type": "creator_submission",
+  "version_type": "creator_original",
+  "external_id": "campaign-001-creator-023",
+  "creator_id": "creator-023",
+  "creator_name": "达人名称",
+  "creator_type": "lifestyle",
+  "product_code": "serum_a",
+  "campaign_code": "campaign_001",
+  "content_type": "recommendation",
+  "title": "最近熬夜有点多，这支精华把我救回来了",
+  "body": "最近连续加班，早上起来脸色真的很差。\n\n朋友让我试试精华A，质地比想象中轻。\n\n连续使用一段时间后，皮肤状态看起来稳定了一些。",
+  "hashtags": [
+    "护肤分享",
+    "熬夜护肤"
+  ],
+  "mentioned_products": [
+    "serum_a"
+  ],
+  "metadata": {
+    "submission_channel": "达人合作平台"
+  }
+}

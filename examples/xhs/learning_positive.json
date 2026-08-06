@@ -1,0 +1,16 @@
+{
+  "brand_code": "demo_brand",
+  "learning_mode": "positive_example",
+  "user_feedback": "这篇很自然，产品出现得不突兀，开头也能让人继续看。",
+  "created_by": "运营经理",
+  "original_article": {
+    "article_type": "brand_owned_content",
+    "version_type": "published",
+    "external_id": "good-note-001",
+    "creator_type": "生活方式",
+    "content_type": "产品种草",
+    "title": "最近把晚间护肤做了减法",
+    "body": "先交代真实场景，再自然带出产品和使用体验。",
+    "hashtags": ["护肤日常", "好物分享"]
+  }
+}
